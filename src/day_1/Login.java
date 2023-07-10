@@ -6,6 +6,8 @@ public class Login {
 
         //Slack users can login succesfully
 
-        //Brand new changes from GitHub
+        //Brand new changes from
+
+        //this line is written from IntelliJ
     }
 }
